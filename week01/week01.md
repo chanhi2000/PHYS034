@@ -83,7 +83,41 @@ $$
     - [Gauss's Law](https://en.m.wikipedia.org/wiki/Gauss%27s_law)
 $$
     \begin{align*}
-    \oint{\vec{E}\cdot{d}\vec{A}}&=\frac{Q_{\text{enc}}}{\epsilon_0}&&\left<\underset{\text{permittivity of free space}}{\epsilon_0=\frac{10^{-9}}{36\pi}\approx8.85\times10^{-12}}\right>
+    \oint{\vec{E}\cdot{d}\vec{S}}&=\frac{Q_{\text{enc}}}{\epsilon_0},&&\left<\underset{\text{permittivity of free space}}{\epsilon_0=\frac{10^{-9}}{36\pi}\approx8.85\times10^{-12}}\right>
     \end{align*}
 $$
-    - Faraday's Law (of induction)](https://en.m.wikipedia.org/wiki/Faraday%27s_law_of_induction)
+    - [Faraday's Law (of induction)](https://en.m.wikipedia.org/wiki/Faraday%27s_law_of_induction)
+$$
+    \begin{align*}
+    \oint{\vec{E}\cdot{d}\vec{S}}&=-\frac{d\phi_{B}}{dt},&&&&\left<\underset{\text{magnetic flux}}{\phi_B=\oint{\vec{B}\cdot{d}\vec{S}}}\right>
+    \end{align*}
+$$
+    - [Ampere's Law](https://en.m.wikipedia.org/wiki/Amp%C3%A8re%27s_circuital_law)
+$$
+    \begin{align*}
+    \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0i_{\text{through}},&&\left<\begin{matrix}B:\text{magnetic flux density}\\ \underset{\text{permeability of free space}}{\mu_0=4\pi\times10^{-7}=12.6\times10^{-7}}\end{matrix}\right>
+    \end{align*}
+$$
+    - [Maxwell's Equation](https://en.m.wikipedia.org/wiki/Maxwell%27s_equations)
+$$
+    \begin{align*}
+    \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\phi_E}{dt}\right],&\text{where}\\
+    \end{align*}
+$$
+$$
+    \left<
+    \begin{align*}
+    \phi_E&=\oint{\vec{E}\cdot{d}\vec{S}}
+    =\oint{E\:dA\:\cos{\theta}}\\&=E\:A=\left[\frac{q}{\epsilon_0A}\right]A
+    \end{align*}
+    \right>
+$$
+
+- #### DERIVATION
+
+$$
+    \begin{align*}
+    \phi_E&=\oint{\vec{E}\cdot{d}\vec{S}}
+    =\oint{E\:dA\:\cos{\theta}}\\&=E\:A=\left[\frac{q}{\epsilon_0A}\right]A
+    \end{align*}
+$$
