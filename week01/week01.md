@@ -89,7 +89,7 @@ $$
     - [Faraday's Law (of induction)](https://en.m.wikipedia.org/wiki/Faraday%27s_law_of_induction)
 $$
     \begin{align*}
-    \oint{\vec{E}\cdot{d}\vec{S}}&=-\frac{d\phi_{B}}{dt},&&&&\left<\underset{\text{magnetic flux}}{\phi_B=\oint{\vec{B}\cdot{d}\vec{S}}}\right>
+    \oint{\vec{E}\cdot{d}\vec{S}}&=-\frac{d\Phi_{B}}{dt},&&&&\left<\underset{\text{magnetic flux}}{\phi_B=\oint{\vec{B}\cdot{d}\vec{S}}}\right>
     \end{align*}
 $$
     - [Ampere's Law](https://en.m.wikipedia.org/wiki/Amp%C3%A8re%27s_circuital_law)
@@ -101,7 +101,7 @@ $$
     - [Maxwell's Equation](https://en.m.wikipedia.org/wiki/Maxwell%27s_equations)
 $$
     \begin{align*}
-    \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\phi_E}{dt}\right],&\text{where}\\
+    \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\Phi_E}{dt}\right],&\text{where}\\
     \end{align*}
 $$
 
@@ -127,7 +127,7 @@ $$
 $$
     \begin{align*}
     \oint{\vec{E}\cdot{d}\vec{S}}
-    &=-\frac{d\phi_B}{dt}=-\frac{d}{dt}\left(\oint{\vec{B}\cdot{d}\vec{A}}\right)=-\frac{d}{dt}\left(B\:A\:\cos{\theta}\right)\\
+    &=-\frac{d\Phi_B}{dt}=-\frac{d}{dt}\left(\oint{\vec{B}\cdot{d}\vec{A}}\right)=-\frac{d}{dt}\left(B\:A\:\cos{\theta}\right)\\
     &=-\frac{d}{dt}\left(B\:\Delta{x}\:h\right)=\underline{-\frac{dB}{dt}\Delta{x}\:h}\\\\
     \end{align*}
 $$
@@ -149,7 +149,8 @@ $$
 
 $$
     \begin{align*}
-    \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\phi_E}{dt}\right],&&\left<i_{\text{through}=0}\right>\\
+    \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\Phi_E}{dt}\right],&&\left<i_{\text{through}}=0}\right>\\
+    &=\epsilon_0\mu_0\frac{d\Phi_{E}}{dt}=\\epsilon_0mu_0\frac{d}{dt}\oint{\vec{E}\cdot{d}\vec{S}}=\underline{\epsilon_0\mu_0\frac{dE}{dt}\Delta{x}\:h};
     \end{align*}
 $$
 
