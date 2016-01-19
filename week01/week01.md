@@ -120,15 +120,14 @@ $$
     \oint{\vec{E}\cdot{d}\vec{S}}
     &=E(x+\Delta{x},t)h+0-E(x,t)h+0;&&\left<E(x+\Delta{x})=E(x)+\frac{dE}{dx}\Delta{x}\right>\\
     &=\left[E(x)+\frac{dE}{dx}\Delta{x}\right]h-E(x,t)h;\\
-    &=\underline{\frac{dE}{dx}\Delta{x}\:h}
-    
+    &=\underline{\frac{dE}{dx}\Delta{x}\:h;}
     \end{align*}
 $$
 $$
     \begin{align*}
     \oint{\vec{E}\cdot{d}\vec{S}}
     &=-\frac{d\Phi_B}{dt}=-\frac{d}{dt}\left(\oint{\vec{B}\cdot{d}\vec{A}}\right)=-\frac{d}{dt}\left(B\:A\:\cos{\theta}\right)\\
-    &=-\frac{d}{dt}\left(B\:\Delta{x}\:h\right)=\underline{-\frac{dB}{dt}\Delta{x}\:h}\\\\
+    &=-\frac{d}{dt}\left(B\:\Delta{x}\:h\right)=\underline{-\frac{dB}{dt}\Delta{x}\:h;}\\\\
     \end{align*}
 $$
 
@@ -143,14 +142,20 @@ $$
     \begin{align*}
     \oint{\vec{B}\cdot{d}\vec{S}}&=-B(x+\Delta{x})h+0+B(x,t)h+0,&&\left<B(x+\Delta{x})=B(x)+\frac{dB}{dx}\Delta{x}\right>\\
     &=-\left[B(x,t)+\frac{dB}{dx}\Delta{x}\right]h+B(x,t)h\\
-    &=-\frac{dB}{dx}\Delta{x}\:h
+    &=\underline{-\frac{dB}{dx}\Delta{x}\:h;}
     \end{align*}
 $$
 
 $$
     \begin{align*}
-    \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\Phi_E}{dt}\right],&&\left<i_{\text{through}}=0}\right>\\
-    &=\epsilon_0\mu_0\frac{d\Phi_{E}}{dt}=\\epsilon_0mu_0\frac{d}{dt}\oint{\vec{E}\cdot{d}\vec{S}}=\underline{\epsilon_0\mu_0\frac{dE}{dt}\Delta{x}\:h};
+    \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\Phi_E}{dt}\right],&&\left<i_{\text{through}}=0\right>\\
+    &=\epsilon_0\mu_0\frac{d\Phi_{E}}{dt}=\epsilon_0\mu_0\frac{d}{dt}\oint{\vec{E}\cdot{d}\vec{S}}\\&=\underline{\epsilon_0\mu_0\frac{dE}{dt}\Delta{x}\:h};\\\\
     \end{align*}
 $$
 
+$$
+    \begin{align*}
+    -\frac{dB}{dx}\Delta{x}\:h&=\epsilon_0\mu_0\frac{dE}{dt}\Delta{x}\:h\\
+    -\frac{dB}{dx}&=
+    \end{align*}
+$$
