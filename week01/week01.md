@@ -29,4 +29,4 @@ $$
 
 > **Q2**: Do we see something spinning, because the earth is spinning?
 
-- **A2**: No. (except [coriolis effect](https://en.m.wikipedia.org/wiki/Coriolis_effect)
+- **A2**: No. (except [coriolis effect](https://en.m.wikipedia.org/wiki/Coriolis_effect))
