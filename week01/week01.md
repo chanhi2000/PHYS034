@@ -57,3 +57,33 @@ $$
 $$
     \underset{\text{conservation of momentum}}{\therefore{S'}: m_1v_1'+m_2v_2'=(m_1+m_2)v_f'}
 $$
+
+## GALILEAN TRANSFORMATION
+- #### DERIVATION
+$$
+    \begin{align*}
+    v'&=v-\mathbf{V};\\
+    \frac{dx'}{dt'}&=\frac{dx}{dt}-\mathbf{V};&&\left<dt'=dt\right>\\
+    dx'&=dx-\mathbf{V}dt;\\
+    x'&=x-\mathbf{V}dt;
+    \end{align*}
+$$
+- #### GENERAL FORM (for Newtonian Relativity)    
+$$
+    \begin{cases}
+    x'=x-\mathbf{V}t;\\
+    y'=y;\\
+    z'=z;\\
+    t'=t;\\
+    \end{cases}
+$$
+
+## SPEED OF LIGHT
+- #### list of important equations
+    - [Gauss's Law](https://en.m.wikipedia.org/wiki/Gauss%27s_law)
+$$
+    \begin{align*}
+    \oint{\vec{E}\cdot{d}\vec{A}}&=\frac{Q_{\text{enc}}}{\epsilon_0}&&\left<\underset{\text{permittivity of free space}}{\epsilon_0=\frac{10^{-9}}{36\pi}\approx8.85\times10^{-12}}\right>
+    \end{align*}
+$$
+    - Faraday's Law (of induction)](https://en.m.wikipedia.org/wiki/Faraday%27s_law_of_induction)
