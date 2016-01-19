@@ -156,6 +156,7 @@ $$
 $$
     \begin{align*}
     -\frac{dB}{dx}\Delta{x}\:h&=\epsilon_0\mu_0\frac{dE}{dt}\Delta{x}\:h\\
-    -\frac{dB}{dx}&=
+    \therefore-\frac{dB}{dx}&=\epsilon_0\mu_0\frac{dE}{dt}
     \end{align*}
 $$
+
