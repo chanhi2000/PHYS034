@@ -118,7 +118,8 @@ $$
 
 $$
     \begin{align*}
-    \phi_E&=\oint{\vec{E}\cdot{d}\vec{S}}
-    =\oint{E\:dA\:\cos{\theta}}\\&=E\:A=\left[\frac{q}{\epsilon_0A}\right]A
+    \oint{\vec{E}\cdot{d}\vec{S}}
+    &=E(x+\Delta{x},t)h+0+0
     \end{align*}
 $$
+
