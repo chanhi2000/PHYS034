@@ -115,11 +115,41 @@ $$
 $$
 
 - #### DERIVATION
-
 $$
     \begin{align*}
     \oint{\vec{E}\cdot{d}\vec{S}}
-    &=E(x+\Delta{x},t)h+0+0
+    &=E(x+\Delta{x},t)h+0-E(x,t)h+0;&&\left<E(x+\Delta{x})=E(x)+\frac{dE}{dx}\Delta{x}\right>\\
+    &=\left[E(x)+\frac{dE}{dx}\Delta{x}\right]h-E(x,t)h;\\
+    &=\underline{\frac{dE}{dx}\Delta{x}\:h}
+    
+    \end{align*}
+$$
+$$
+    \begin{align*}
+    \oint{\vec{E}\cdot{d}\vec{S}}
+    &=-\frac{d\phi_B}{dt}=-\frac{d}{dt}\left(\oint{\vec{B}\cdot{d}\vec{A}}\right)=-\frac{d}{dt}\left(B\:A\:\cos{\theta}\right)\\
+    &=-\frac{d}{dt}\left(B\:\Delta{x}\:h\right)=\underline{-\frac{dB}{dt}\Delta{x}\:h}\\\\
+    \end{align*}
+$$
+
+$$
+    \begin{align*}
+    \frac{dE}{dx}\Delta{x}\:h&=-\frac{dB}{dt}\Delta{x}\:h\\
+    \therefore\frac{dE}{dx}&=-\frac{dB}{dt}
+    \end{align*}
+$$
+
+$$  
+    \begin{align*}
+    \oint{\vec{B}\cdot{d}\vec{S}}&=-B(x+\Delta{x})h+0+B(x,t)h+0,&&\left<B(x+\Delta{x})=B(x)+\frac{dB}{dx}\Delta{x}\right>\\
+    &=-\left[B(x,t)+\frac{dB}{dx}\Delta{x}\right]h+B(x,t)h\\
+    &=-\frac{dB}{dx}\Delta{x}\:h
+    \end{align*}
+$$
+
+$$
+    \begin{align*}
+    \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\phi_E}{dt}\right],&&\left<i_{\text{through}=0}\right>\\
     \end{align*}
 $$
 
