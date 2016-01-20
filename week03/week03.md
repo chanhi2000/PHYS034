@@ -54,7 +54,7 @@ $$
 $$
     \begin{align*}
     E&=\int{m_0\gamma(\gamma^2)dv(v)}=\int{m_0\gamma^3v\:dv},\\
-    &\left<\frac{d\gamma}{dt}=\frac{v}{c^2}\gamma^3\frac{dv}{dt};\:\:\:\:d\gamma=\frac{v}{c^2}\gamma^3dv\right>
+    &\left<\frac{d\gamma}{dt}=\frac{v}{c^2}\gamma^3\frac{dv}{dt};\:\:\:\:d\gamma=\frac{v}{c^2}\gamma^3dv\right>\\
     &=\int{m_0(c^2)d\gamma}=m_0c^2\int{d\gamma}=\gamma{m_0}c^2;
     \end{align*}
 $$
@@ -67,6 +67,16 @@ $$
 Give the lower and upperbound for this integral
 $$
     \begin{align*}
-    E&=m_0c^2\left.\left(1-\frac{v^2}{c^2}\right)^{-\frac{1}{2}}\right|_{0}^v=
+    E&=m_0c^2\left.\left(1-\frac{v^2}{c^2}\right)^{-\frac{1}{2}}\right|_{0}^v\\
+    &=m_0c^2\left(1-\frac{(v)^2}{c^2}\right)^{-\frac{1}{2}}-m_0c^2\left(1-\frac{(0)^2}{c^2}\right)^{-\frac{1}{2}}\\
+    &=m_0c^2\gamma-m_0c^2=(\gamma-1)m_0c^2;
+    \end{align*}
+$$
+
+given velocity "close" to speed of light, the kinetic energy is denoted,
+$$
+    \begin{align*}
+    K&=\gamma{m_0}c^2-m_0c^2=E_{\text{total}}-E_{\text{rest}}\\
+    &=(\gamma-1)m_0c^2
     \end{align*}
 $$
