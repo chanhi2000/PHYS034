@@ -11,7 +11,7 @@ $$
     \begin{align*}
     E&=W=\int{\vec{F}\cdot{d}\vec{x}}=\int{\left(m\vec{a}\right)\cdot{d}\vec{x}}\\
     &=\int{m\left(\frac{d\vec{v}}{dt}\right)\cdot\vec{x}}=\int{m\left(\frac{d\vec{x}}{dt}\right)d\vec{v}}\\
-    &=\int{m(v)(dv)}=m\left(\frac{v^2}{2}right)=\frac{1}{2}mv^2;
+    &=\int{m(v)(dv)}=m\left(\frac{v^2}{2}\right)=\frac{1}{2}mv^2;
     \end{align*}
 $$
 
