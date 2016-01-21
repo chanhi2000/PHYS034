@@ -16,7 +16,7 @@ $$
 $$
 
 
-### in RELATIVISTIC frame
+#### in RELATIVISTIC frame
 $$
     \begin{align*}
     E&=W=\int{\vec{F}\cdot{d}\vec{x}}=\int{\left(\frac{dp}{dt}\right)dx},&&\left<F=\frac{dp}{dt}\right>\\
@@ -64,7 +64,7 @@ $$
     \therefore{E}&=\gamma{m_0}c^2
     \end{align*}
 $$
-Give the lower and upperbound for this integral
+Give the lower and upper bounds for this integral
 $$
     \begin{align*}
     E&=m_0c^2\left.\left(1-\frac{v^2}{c^2}\right)^{-\frac{1}{2}}\right|_{0}^v\\
@@ -80,3 +80,32 @@ $$
     &=(\gamma-1)m_0c^2
     \end{align*}
 $$
+to see if this equation holds true in classical physics.
+$$
+    \left\{
+    \begin{align*}
+    v\ll{c},&\underset{\text{Binomial Expansion}}{\gamma\approx1+\frac{1}{2}\frac{v^2}{c^2}}
+    \end{align*}\right\}
+$$
+$$
+    \begin{align*}
+    K\approx\left[\left(1+\frac{1}{2}\frac{v^2}{c^2}\right)-1\right]m_0c^2=\frac{1}{2}m_0v^2
+    \end{align*}
+$$
+###### ENERGY RELATION ($$E_{\text{total}} vs. E_{\text{rest}}$$)
+$$
+    \begin{align*}
+    m&=\gamma{m_0};\\
+    m^2&=\gamma^2m_0^2=\left(\frac{c^2}{c^2-v^2}\right)m_0^2;\\
+    m_0^2c^2&=m^2(c^2-v^2)=m^2c^2-m^2v^2;\\
+    (m_0^2c^2)(c^2)&=(c^2)(m^2c^2-m^2v^2);\\
+    (m_0c^2)^2&=(mc^2)^2-m^2c^2v^2;\\
+    (mc^2)^2&=m^2c^2v^2+(m_0c^2)^2;\\
+    &\left<E=m_0c^2\right>\:\:\:\:\left<p=mv\right>\\
+    (E_{\text{total}})^2&=(pc)^2+(E_{\text{rest}})^2
+    \end{align*}
+$$
+
+### DIREC'S DISCOVERY
+- Basically he proposed that in special relativity, electrons can have both a **positive** charge and **negative** energy.
+> **Q**: how is it possible to have an electron with energy that is **positively charged**?
