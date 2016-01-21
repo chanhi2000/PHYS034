@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [week01](week01/week01.md)
+   * [lect01.md](week01/lect01.md)
    * [hw01](week01/hw01.md)
    * [hw01a](week01/hw01/hw01a.md)
    * [hw01b](week01/hw01/hw01b.md)
@@ -13,5 +14,4 @@
    * [hw01h](week01/hw01/hw01h.md)
    * [hw01i](week01/hw01/hw01i.md)
 * [week03](week03/week03.md)
-* [lect01.md](week01/lect01.md)
 
