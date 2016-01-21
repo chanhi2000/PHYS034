@@ -22,7 +22,7 @@
 * hw02d
 * hw02e
 * hw02f
-* [week03](week03/week03.md)
 * hw02g
+* [week03](week03/week03.md)
 * hw02h
 
