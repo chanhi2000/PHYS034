@@ -15,5 +15,5 @@
    * [hw01i](week01/hw01/hw01i.md)
 * [week03](week03/week03.md)
 * [week02](week02/week02.md)
-* lect02
+* [lect02](week02/lect02.md)
 
