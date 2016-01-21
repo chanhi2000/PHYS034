@@ -23,7 +23,7 @@
 * [hw02e](week02/hw02/hw02e.md)
 * [hw02f](week02/hw02/hw02f.md)
 * [hw02g](week02/hw02/hw02g.md)
-* hw02h
+* [hw02h](week02/hw02/hw02h.md)
 * hw02i
 * [week03](week03/week03.md)
 * hw02j
