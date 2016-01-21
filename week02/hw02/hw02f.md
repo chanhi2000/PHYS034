@@ -6,3 +6,11 @@ A cosmic-ray proton is moving at such a speed that it can travel from the Moon t
 2. What is its kinetic energy? 
 3. What value would be measured for its mass by an observer in Earth’s reference frame? 
 4. What percent error is made in the kinetic energy by using the classical relation? (The Earth-Moon distance is $$3.8\times10^5\:\text{km}$$. Ignore Earth’s rotation.)
+ 
+#### 2.7.1
+
+#### 2.7.2
+
+#### 2.7.3
+
+#### 2.7.4
