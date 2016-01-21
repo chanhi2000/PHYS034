@@ -104,7 +104,6 @@ $$
     \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\Phi_E}{dt}\right],&\text{where}\\
     \end{align*}
 $$
-
 $$
     \left<
     \begin{align*}
@@ -130,14 +129,12 @@ $$
     &=-\frac{d}{dt}\left(B\:\Delta{x}\:h\right)=\underline{-\frac{dB}{dt}\Delta{x}\:h;}\\\\
     \end{align*}
 $$
-
 $$
     \begin{align*}
     \frac{dE}{dx}\Delta{x}\:h&=-\frac{dB}{dt}\Delta{x}\:h\\
     \therefore\frac{dE}{dx}&=-\frac{dB}{dt}
     \end{align*}
 $$
-
 $$  
     \begin{align*}
     \oint{\vec{B}\cdot{d}\vec{S}}&=-B(x+\Delta{x})h+0+B(x,t)h+0,&&\left<B(x+\Delta{x})=B(x)+\frac{dB}{dx}\Delta{x}\right>\\
@@ -145,20 +142,125 @@ $$
     &=\underline{-\frac{dB}{dx}\Delta{x}\:h;}
     \end{align*}
 $$
-
 $$
     \begin{align*}
     \oint{\vec{B}\cdot{d}\vec{S}}&=\mu_0\left[i_{\text{through}}+\epsilon_0\frac{d\Phi_E}{dt}\right],&&\left<i_{\text{through}}=0\right>\\
     &=\epsilon_0\mu_0\frac{d\Phi_{E}}{dt}=\epsilon_0\mu_0\frac{d}{dt}\oint{\vec{E}\cdot{d}\vec{S}}\\&=\underline{\epsilon_0\mu_0\frac{dE}{dt}\Delta{x}\:h};\\\\
     \end{align*}
 $$
-
 $$
     \begin{align*}
     -\frac{dB}{dx}\Delta{x}\:h&=\epsilon_0\mu_0\frac{dE}{dt}\Delta{x}\:h\\
     \therefore-\frac{dB}{dx}&=\epsilon_0\mu_0\frac{dE}{dt}
     \end{align*}
 $$
+Use these two equations to come up with something new
+$$
+    \left\{
+    \begin{align*}
+    \frac{dE}{dx}&=-\frac{dB}{dt}\\\\
+    -\frac{dB}{dx}&=\epsilon_0\mu_0\frac{dE}{dt}
+    \end{align*}
+    \right.
+$$
+$$
+    \begin{align*}
+    \left(\frac{d}{dx}\right)\frac{dE}{dx}&=-\left(\frac{d}{dx}\right)\frac{dB}{dt}\\
+    \frac{d^2E}{dx^2}&=\frac{d}{dt}\left(-\frac{dB}{dx}\right),&&\left<-\frac{dB}{dx}=\epsilon_0\mu_0\frac{dE}{dt}\right>\\
+    &=\frac{d}{dt}\left(\epsilon_0\mu_0\frac{dE}{dt}\right)\\
+    &=\epsilon_0\mu_0\frac{d^2E}{dt^2}
+    \end{align*}
+$$
+**Reminder**: wave equation (PHYS032)
+$$  
+    \begin{align*}
+    \frac{d^2y}{dx^2}&=\frac{1}{v^2}\frac{d^2y}{dt^2}\\
+    \end{align*}
+$$
+So we use this relation to make sense of our derived equation
+$$
+    \left\{
+    \begin{align*}
+    \frac{d^2y}{dx^2}&=\left(\frac{1}{v^2}\right)\frac{d^2y}{dt^2}\\\\
+    \frac{d^2E}{dx^2}&=\left(\epsilon_0\mu_0\right)\frac{d^2E}{dt^2}
+    \end{align*}
+    \right.
+$$
+#### SPEED OF THE WAVE (LIGHT)
+$$
+    \begin{align*}
+    \frac{1}{v^2}&=\epsilon_0\mu_0;\\
+    v&=\frac{1}{\sqrt{\epsilon_0\mu_0}}=\frac{1}{\sqrt{\left(\frac{10^{-9}}{36\pi}\right)\left(4\pi\times10^{7}\right)}}\\
+    &=3.0\times10^{8}
+    \end{align*}
+$$
+#### CONCLUSION
+ - **Light** is no different from **EM wave** (i.e. microwave, radio wave, x-ray, etc.)
 
+## LORENTZ TRANSFORMATION
+from GALILEAN TRANSFORMATION
+#### Gamma
+$$
+    x'=x-\mathbf{V}t;
+$$
+Lorentz Transformation says that, in special relativity,
+$$
+    x'=\gamma\left(x-\mathbf{V}t\right)
+$$
+- Einstein's Postulate says if we consider the distance to be
+$$d=rt$$
+$$
+    \left\{\begin{align*}
+    S'&:x'=ct';\\
+    S&: x=ct;
+    \end{align*}\right.
+$$
+back to our Lorentz Transformation
+$$
+    \begin{matrix}
+    \underset{\text{Lorentz TF form}}{\underline{\begin{align*}
+    x'&=\gamma\left(x-\mathbf{V}t\right)\\
+    (ct')&=\gamma\left((ct)-\mathbf{V}t\right)\\
+    ct'&=\gamma\left(c-\mathbf{V}\right)t
+    \end{align*}}}&&
+    \underset{\text{Inverse Lorentz TF form}}{\underline{\begin{align*}
+    x&=\gamma\left(x'+\mathbf{V}t'\right)\\
+    (ct)&=\gamma\left((ct')+\mathbf{V}t'\right)\\
+    ct&=\gamma\left(c+\mathbf{V}\right)t'
+    \end{align*}}}\end{matrix}
+$$
+Use this relation to derive Gamma
+$$
+    \begin{align*}
+    1&=1;\\
+    \left(\frac{ct'}{\gamma\left(c-\mathbf{V}\right)t}\right)&=\left(\frac{\gamma\left(c+\mathbf{V}\right)t'}{ct}\right);\\
+    \frac{c}{\gamma\left(c-\mathbf{V}\right)}&=\frac{\gamma\left(c+\mathbf{V}\right)}{c}\\
+    c^2&=(\gamma)^2(c-\mathbf{V})(c+\mathbf{V})\\
+    &=\gamma^2\left(c^2-\mathbf{V}^2\right);\\\\
+    \gamma^2&=\frac{c^2}{c^2-\mathbf{V}}=\frac{1}{\frac{c^2-\mathbf{V}}{c^2}}=\frac{1}{1-\frac{\mathbf{V}^2}{c^2}};\\
+    \gamma&=\sqrt{\left(\frac{1}{1-\frac{\mathbf{V}^2}{c^2}}\right)}=\frac{1}{\sqrt{1-\left(\frac{\mathbf{V}}{c}\right)^2}}\\
+    &=\frac{1}{\sqrt{1-\left(\beta\right)^2}},
+    \end{align*}
+$$
+where
+$$
+    \begin{matrix}
+    \begin{align*}
+    \beta=\frac{\mathbf{V}}{c}
+    \end{align*}&
+    \begin{cases}
+    \beta\to0&\mathbf{V}\ll{c}\\
+    \beta\to1&\mathbf{V}\approx{c}
+    \end{cases}
+    \end{matrix}
+$$
 
+#### TIME FOR LORENTZ TRANSFORMATION
 
+- An observer from frame $$S$$ can see the person's time in the other frame $$S'$$ is **dilated** when the frame $$S'$$ is moving at a speed **close to speed of light**. On that note, we need to know how to get the proper time, $$t'$$ measured by the observer from $$S$$ frame.
+###### $$t$$ and $$t'$$
+$$  
+    \begin{align*}
+    x&=\gamma(x'+\mathbf{V}t')
+    \end{align*}
+$$
