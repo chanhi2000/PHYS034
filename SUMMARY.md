@@ -19,7 +19,7 @@
 * [hw02a](week02/hw02/hw02a.md)
 * [hw02b](week02/hw02/hw02b.md)
 * [hw02c](week02/hw02/hw02c.md)
-* hw02d
+* [hw02d](week02/hw02/hw02d.md)
 * hw02e
 * hw02f
 * hw02g
