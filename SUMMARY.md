@@ -8,4 +8,5 @@
 * [hw01c](week01/hw01/hw01c.md)
 * [hw01d](week01/hw01/hw01d.md)
 * [week03](week03/week03.md)
+* hw01e
 
