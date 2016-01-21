@@ -1,4 +1,4 @@
-# hw02g
+# **hw02g**
 
 ## 2.10
 1. Compute the rest energy of $$1\:\text{g}$$ of dirt. 
