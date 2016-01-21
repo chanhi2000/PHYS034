@@ -19,4 +19,5 @@
 * hw02a
 * hw02b
 * [week03](week03/week03.md)
+* hw02c
 
