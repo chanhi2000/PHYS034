@@ -258,9 +258,40 @@ $$
 #### TIME FOR LORENTZ TRANSFORMATION
 
 - An observer from frame $$S$$ can see the person's time in the other frame $$S'$$ is **dilated** when the frame $$S'$$ is moving at a speed **close to speed of light**. On that note, we need to know how to get the proper time, $$t'$$ measured by the observer from $$S$$ frame.
+
 ###### $$t$$ and $$t'$$
 $$  
     \begin{align*}
-    x&=\gamma(x'+\mathbf{V}t')
+    x&=\gamma(x'+\mathbf{V}t')\\
+    &=\gamma\left(\left(x-\mathbf{V}t\right)+\mathbf{V}t'\right)\\
+    &=\gamma^2x-\gamma^2\mathbf{V}t+\gamma\mathbf{V}t';\\
+    \gamma\mathbf{V}t'&=x-\gamma^2x+\gamma^2\mathbf{V}t;\\
+    t'&=\frac{x}{(\gamma\mathbf{V})}-\frac{\gamma^2x}{(\gamma\mathbf{V})}+\frac{\gamma^2\mathbf{V}t}{(\gamma\mathbf{V})}=\frac{x}{\gamma\mathbf{V}}-\frac{\gamma}{\mathbf{V}}x+\gamma{t}\\
+    &=\frac{x}{\mathbf{V}}\left(\frac{1}{\gamma}-\gamma\right)+\gamma{t}=\frac{x}{\mathbf{V}}\left(\frac{1-\gamma^2}{\gamma}\right)+\gamma{t}\\
+    &=\frac{x}{\mathbf{V}}\left(\frac{\gamma}{\gamma}\right)\left(\frac{1-\gamma^2}{\gamma}\right)+\gamma{t}\\
+    &=\frac{x\gamma}{\mathbf{V}}\left(\frac{1-\gamma^2}{\gamma^2}\right)+\gamma{t},\\
     \end{align*}
+$$
+$$
+    \left\{
+    \begin{align*}
+    \frac{1-\left(\gamma^2\right)}{\gamma^2}&=\frac{1}{\gamma^2}-1\\
+    &=\left(\frac{c^2-\mathbf{V}^2}{c^2}\right)-\left(\frac{c^2}{c^2}\right)\\
+    &=-\frac{\mathbf{V}^2}{c^2};
+    \end{align*}\right\}
+$$
+$$
+    \begin{align*}
+    t'&=\frac{x\gamma}{\mathbf{V}}\left(-\frac{\mathbf{V}^2}{c^2}\right)+\gamma{t}\\
+    &=\gamma\left[t-\frac{\mathbf{V}}{c^2}x\right];
+    \end{align*}
+$$
+$$
+    \begin{matrix}
+    \underset{\text{Lorentz TF form}}{\underline{\begin{align*}
+    t'&=\gamma\left[t-\frac{\mathbf{V}}{c^2}x\right]
+    \end{align*}}}&&
+    \underset{\text{Inverse Lorentz TF form}}{\underline{\begin{align*}
+    t&=\gamma\left[t'+\frac{\mathbf{V}}{c^2}x'\right]
+    \end{align*}}}\end{matrix}
 $$
