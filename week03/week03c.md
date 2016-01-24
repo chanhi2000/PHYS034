@@ -55,7 +55,15 @@ $$
     ![black body radiation graph](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Blackbody-lg.png/640px-Blackbody-lg.png)
 $$
     \begin{align*}
-    \left<\underset{\text{power flux}}{R_T(f)}=1\left[\frac{\text{W}}{\text{m}^2}\cdot\frac{1}{f}\right]=\left[\frac{E}{t\cdot{A}}\cdot\frac{1}{f}\right]=\left[\frac{E}{t}\cdot\frac{L}{\text{vol}}\frac{1}{f}\right]=\left[\frac{E}{\text{vol}}\cdot\frac{L}{\text{t}}\frac{1}{f}\right]=\left[\right]\right>
+    \left<\underset{\text{power flux}}{R_T(f)}=1\left[\frac{\text{W}}{\text{m}^2}\cdot\frac{1}{f}\right]\right>
+    \end{align*}
+$$
+$$
+    \begin{align*}
+    R_T(f)&=\frac{E}{t\cdot{A}}\cdot\frac{1}{f}\\
+    &=\frac{E}{t}\cdot\left(\frac{L}{\text{vol}}\right)\cdot\frac{1}{f}\\
+    &=\frac{E}{\text{vol}}\cdot\frac{L}{\text{t}}\cdot\frac{1}{f}\\
+    &=\left(\right)
     \end{align*}
 $$
 
