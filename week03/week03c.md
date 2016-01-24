@@ -63,7 +63,8 @@ $$
     R_T(f)&=\frac{E}{t\cdot{A}}\cdot\frac{1}{f}\\
     &=\frac{E}{t}\cdot\left(\frac{L}{\text{vol}}\right)\cdot\frac{1}{f}\\
     &=\frac{E}{\text{vol}}\cdot\frac{L}{\text{t}}\cdot\frac{1}{f}\\
-    &=\left(\right)
+    &=\underset{\text{energy density}}{\left(\rho_T(t)\right)}\left(v\right)\left(\frac{1}{f}\right)\\
+    \therefore{R}_T(f)&\propto\left(\rho_T(t)\right)\cdot\frac{1}{f}
     \end{align*}
 $$
 
@@ -77,6 +78,44 @@ $$
     y_2&=A\:\sin{(kx-\omega{t})}
     \end{align*}
 $$
-
+$$
+    \left\{
+    \begin{align*}
+    y&=A\sin{\underline{\phi}}\\
+    \phi&=\underline{kx}+\omega\:t,&&\left<k:\text{wave }\#\right>\\
+    kx&=d\pm\omega\:t\\
+    x&=\frac{d}{k}\pm\frac{\omega}{k}t,&&\left<v=\frac{\omega}{k}\right>\\
+    &=C\pm{v}\:t;
+    \end{align*}
+    \right\}
+$$
+$$
+    \begin{align*}
+    y_1+y_2&=A\sin{(kx+\omega{t})}+A\sin{(kx-\omega{t})}\\
+    &\left<\sin{(a)}+\sin{(b)}=2\left[\sin{\left(\frac{1}{2}(a+b)\right)}\cos{\left(\frac{1}{2}(a-b)\right)}\right]\right>\\
+    &=2A\sin{\left(\frac{(kx+\omega{t})+(kx-\omega{t})}{2}\right)}\cos{\left(\frac{(kx+\omega{t})-(kx-\omega{t})}{2}\right)}\\
+    &=2A\sin{(kx)}\cos{(\omega{t})}
+    \end{align*}
+    
+$$
+$$
+    \left\{
+    \begin{align*}
+    kx&=n\pi;\\
+    \left(\frac{2\pi}{\lambda}\right)L&=n\pi;\\
+    \lambda&=\frac{2L}{n};
+    \end{align*}
+    \right\}
+$$
+#### vibration of standing wave
+$$
+    \begin{align*}
+    f&=\frac{v}{\lambda}=\left(\frac{n}{2L}\right)v=\frac{nv}{2L}\\
+    f_{c}&\underset{\text{EM Wave (1D)}}{=\left(\frac{c}{2L}\right)n};\\
+    f_{c}&\underset{\text{EM Wave (3D)}}{=\left(\frac{c}{2L}\right)\sqrt{(n_x)^2+(n_y)^2+(n_z)^2}};\\
+    &\left<\begin{matrix}n:\text{mode #}&&L:\text{sizze of capacity}\end{matrix}\right>
+    \end{align*}       
+$$
+For EM wave ()
 
 ## [BLAKC BODY](https://en.m.wikipedia.org/wiki/Black_body)
