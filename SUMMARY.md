@@ -30,5 +30,5 @@
 * [week03c](week03/week03c.md)
 * [week04a](week04/week04a.md)
 * [mt_2007](mt/mt2007.md)
-* mt_2008
+* [mt_2008](mt/mt2008.md)
 
