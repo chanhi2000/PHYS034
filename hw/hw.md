@@ -31,4 +31,9 @@
     * #### [hw03g](hw03/hw03g.md)
     * #### [hw03h](hw03/hw03h.md)
     * #### [hw03i](hw03/hw03i.md)
-
+* ## [hw04](hw04.md)
+    * #### [hw04a](hw04/hw04a.md)
+    * #### [hw04b](hw04/hw04b.md)
+    * #### [hw04c](hw04/hw04c.md)
+    * #### [hw04d](hw04/hw04d.md)
+    * #### [hw04e](hw04/hw04e.md)
