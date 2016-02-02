@@ -2,6 +2,7 @@
 
 ##3.
 **3.12(c)**
+
 Find $$m$$ for black body radiation at
 
 **(a)** $$T=3\:\text{K}$$,
