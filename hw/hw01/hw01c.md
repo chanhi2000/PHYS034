@@ -1,10 +1,13 @@
 # **hw01c**
 
-## 1.20.2
+##3. 
+**1.20(b)**
+
 Use the binomial expansion to derive the following results for values of $$v\ll{c}$$ and use when applicable in the problems that follow in this section.
 $$
     \frac{1}{\gamma}\approx1-\frac{1}{2}\frac{v^2}{c^2}
 $$
+
 
 #### 1.20.2
 $$

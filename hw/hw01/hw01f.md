@@ -1,17 +1,10 @@
 # **hw01f**
 
-##1.24
-The proper mean lifetime of $$\pi$$ mesons (pions) is $$2.6\times10^{-8}\:\text{s}$$.  Suppose a beam of such particles has speed $$0.9c$$. 
-1. What would their mean life be as measured in the laboratory?
-2. How far would they travel (on the average) before they decay?
-3. What would your answer be to part (3) if you neglected time dilation?  
-4. What is the interval in spacetime between creation of a typical pion and its decay?
+##6.
+**1.37**
 
-####1.24.1
+Einstein used trains for a number of relativity thought experiments since they were the fastest objects commonly recognized in those days.  Let’s consider a train moving at $$0.65c$$ along a straight track at night.  Its headlight produces a beam with an angular spread of $$60^{\circ}$$ according to the engineer.  If you are standing alongside the track (rails are $$1.5\:\text{m}$$ apart), how far from you is the train when you see its approaching headlight suddenly disappear?
 
-####1.24.2
 
-####1.24.3
-
-####1.24.4
+####1.37
 

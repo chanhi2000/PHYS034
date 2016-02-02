@@ -1,13 +1,14 @@
 # **hw01h**
 
-## 1.41
-A friend of yours who is the same age as you travels to the star Alpha Centauri, which is $$4c\cdot{y}$$ away, and returns immediately.  She claims that the entire trip took just 6 years.  
-1. How fast did she travel?  
-2. How old are you when she returns?  
-3. Draw a spacetime diagram that verifies your answer to (1) and (2).
+##8.
+**1.44**
 
-####1.41.1
+A burst of $$p+$$ mesons (pions) travels down an evacuated beam tube at Fermilab moving at $$\beta=0.92$$ with respect to the laboratory.
 
-####1.41.2
+**(a)** Compute $$\gamma$$ for this group of pions.
 
-####1.41.3
+**(b)** The proper mean lifetime of pions is $$2.6\times10^{-8}\:\text{s}$$.  What mean lifetime is measured in the lab?
+
+**(c)** If the burst contained 50,000 pions, how many remain after the group has traveled $$50\:\text{m}$$ down the beam tube?
+
+**(d)** What would be the answer to (c) ignoring time dilation?

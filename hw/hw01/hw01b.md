@@ -1,9 +1,14 @@
 # **hw01b**
 
-## 1.13
-Suppose that an event occurs in inertial frame $$S$$ with coordinates $$x=75\:m$$, $$y=18\:m$$, $$z=4.0\:m$$ at $$t=2.0\times10^{-5}\:s$$.  The inertial frame $$S’$$ moves in the $$+x$$ direction with $$v=0.85c$$.  The origins of $$S$$ and $$S'$$ coincided at $$t=t'=0$$.  
-1. What are the coordinates of the event in $$S’$$?  
-2. Use the inverse transformation on the results of (1) to obtain the original coordinates.
+##2.
+**1.13**
+
+Suppose that an event occurs in inertial frame $$S$$ with coordinates $$x=75\:m$$, $$y=18\:m$$, $$z=4.0\:m$$ at $$t=2.0\times10^{-5}\:s$$.  The inertial frame $$S’$$ moves in the $$+x$$ direction with $$v=0.85c$$.  The origins of $$S$$ and $$S'$$ coincided at $$t=t'=0$$.
+
+**(a)** What are the coordinates of the event in $$S’$$?
+
+**(b)** Use the inverse transformation on the results of (1) to obtain the original coordinates.
+
 
 #### 1.13.1
 $$

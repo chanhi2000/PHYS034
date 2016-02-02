@@ -1,6 +1,14 @@
 # **hw01g**
 
-## 1.37
-Einstein used trains for a number of relativity thought experiments since they were the fastest objects commonly recognized in those days.  Let’s consider a train moving at $$0.65c$$ along a straight track at night.  Its headlight produces a beam with an angular spread of $$60^{\circ}$$ according to the engineer.  If you are standing alongside the track (rails are $$1.5\:\text{m}$$ apart), how far from you is the train when you see its approaching headlight suddenly disappear?
+##7.
+**1.41**
 
-####1.37
+A friend of yours who is the same age as you travels to the star Alpha Centauri, which is $$4c\cdot{y}$$ away, and returns immediately.  She claims that the entire trip took just 6 years.
+
+**(a)** How fast did she travel?
+
+**(b)** How old are you when she returns?
+
+**(c)** Draw a spacetime diagram that verifies your answer to (a) and (b).
+
+

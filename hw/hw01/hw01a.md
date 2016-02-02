@@ -1,11 +1,17 @@
+
 # **hw01a**
 
-## 1.10
+##1.
+**1.10**
 
-Suppose that $$A'$$, $$B'$$, and $$C'$$ are at rest in frame $$S'$$, which moves with respect to $$S$$ at speed $$v$$ in the $$+x$$ direction.  Let $$B'$$ be located exactly midway between $$A'$$ and C’.  At t’=0, a light flash occurs at B’ and expands outward as a spherical wave.  
-1. According to an observer in $$S'$$, do the wave fronts arrive at $$A'$$ and $$C'$$ simultaneously?  
-2. According to an observer in $$S$$, do the wave fronts arrive at $$A'$$ and $$C'$$ simultaneously?
-3. If you answered *no* to either (1) or (2), what is the difference in their arrival times and at which point did the front arrive first?
+Suppose that $$A'$$, $$B'$$, and $$C'$$ are at rest in frame $$S'$$, which moves with respect to $$S$$ at speed $$v$$ in the $$+x$$ direction.  Let $$B'$$ be located exactly midway between $$A'$$ and C’.  At t’=0, a light flash occurs at B’ and expands outward as a spherical wave.
+
+**(a)** According to an observer in $$S'$$, do the wave fronts arrive at $$A'$$ and $$C'$$ simultaneously?
+
+**(b)** According to an observer in $$S$$, do the wave fronts arrive at $$A'$$ and $$C'$$ simultaneously?
+
+**(c)** If you answered *no* to either (1) or (2), what is the difference in their arrival times and at which point did the front arrive first?
+
 
 #### 1.10.1
 > according to $$S'$$ frame, the wave fronts arrive simultaneously at $$A'$$, and $$C'$$.
