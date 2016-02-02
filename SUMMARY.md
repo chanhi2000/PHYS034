@@ -29,6 +29,12 @@
 * [week03](week03/week03.md)
 * [week03c](week03/week03c.md)
 * [week04a](week04/week04a.md)
-* [mt_2007](mt/mt2007.md)
-* [mt_2008](mt/mt2008.md)
+* [mt2003](mt/mt2003.md)
+* [mt2004](mt/mt2004.md)
+* [mt2005](mt/mt2005.md)
+* [mt2006](mt/mt2006.md)
+* [mt2007](mt/mt2007.md)
+* [mt2008](mt/mt2008.md)
+
+
 
