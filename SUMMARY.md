@@ -18,7 +18,6 @@
       * [hw01f](hw/hw01/hw01f.md)
       * [hw01g](hw/hw01/hw01g.md)
       * [hw01h](hw/hw01/hw01h.md)
-      * [hw01i](hw/hw01/hw01i.md)
   * [hw02](hw/hw02.md)
       * [hw02a](hw/hw02/hw02a.md)
       * [hw02b](hw/hw02/hw02b.md)
@@ -114,6 +113,6 @@
       * [mt2015a](mt/mt2015/mt2015a.md)
       * [mt2015b](mt/mt2015/mt2015b.md)
       * [mt2015c](mt/mt2015/mt2015c.md)
-
+  * [mt2016](mt/mt2016.md)
 
 

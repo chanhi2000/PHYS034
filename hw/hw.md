@@ -9,7 +9,6 @@
     * #### [hw01f](hw01/hw01f.md)
     * #### [hw01g](hw01/hw01g.md)
     * #### [hw01h](hw01/hw01h.md)
-    * #### [hw01i](hw01/hw01i.md)
 * ## [hw02](hw02.md)
     * #### [hw02a](hw02/hw02a.md)
     * #### [hw02b](hw02/hw02b.md)
