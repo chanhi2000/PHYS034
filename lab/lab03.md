@@ -1,25 +1,25 @@
-# LAB03: 
+# LAB03:
 
 ##TITLE:
 DETERMINATION OF THE BALMER SERIES WITH A SPECTROSCOPE
 
 ##EQUIPMENTS:
-- Prism spectroscope; 
-- gas discharge tubes (Hg, He, H, ...); 
-- power supplies; 
+- Prism spectroscope;
+- gas discharge tubes (Hg, He, H, ...);
+- power supplies;
 - scale illuminator
 
 ##INTRODUCTION AND BACKGROUND:
 Spectroscopy dates back to ~1860, when Bunsen and Khircoff first studied spectra of assorted incandescent vapors. About 25 years later, Balmer studied more carefully the visible spectrum of hydrogen, and in the early 1900’s Bohr showed that the light emitted by an excited hydrogen atom could be
-modeled using a quantum approach and three specific postulates, basically: 
-1. The electron in a H atom is bound in a circular orbit around the nucleus with the electron’s angular momentum quantized in units of $$\frac{h}{2\pi}=1.054\times10^{-34}\:\text{J}\cdot\text{s}$$ ($$h$$ is now called Planck’s constant); 
+modeled using a quantum approach and three specific postulates, basically:
+1. The electron in a H atom is bound in a circular orbit around the nucleus with the electron’s angular momentum quantized in units of $$\frac{h}{2\pi}=1.054\times10^{-34}\:\text{J}\cdot\text{s}$$ ($$h$$ is now called Planck’s constant);
 2. The orbiting electron, although it is accelerating, radiates
-energy *only* when it makes a transition between distinct electron orbits; and 
-3. If such a transition does occur, the radiation is emitted or absorbed in whole quanta of energy. (*i.e.*, the emitted light does not appear as a continuum in energy).  Combining these ideas allowed Bohr to predict the frequency, $$\nu$$, of the photon emitted (or absorbed) by an atom of atomic number $$Z$$ when an electron within the atom moves between energy levels $$E_i$$ and $$E_f$$. Assuming $$M_{\text{nuleus}}$$\gg{m}_e, Bohr’s result can be written simply as:
+energy *only* when it makes a transition between distinct electron orbits; and
+3. If such a transition does occur, the radiation is emitted or absorbed in whole quanta of energy. (*i.e.*, the emitted light does not appear as a continuum in energy).  Combining these ideas allowed Bohr to predict the frequency, $$\nu$$, of the photon emitted (or absorbed) by an atom of atomic number $$Z$$ when an electron within the atom moves between energy levels $$E_i$$ and $$E_f$$. Assuming $$M_{\text{nucleus}}\gg{m}_e$$, Bohr’s result can be written simply as:
 $$
 \left|E_f-E_i\right|=h\nu=\left(\frac{2m_e\pi^2k^2Z^2e^4}{h^2}\right)\left|\frac{1}{n_f^2}-\frac{1}{n_i^2}\right|
 $$
-where $$n_i$$ and $$n_f$$ are integers that specify the initial-state and final-state electron energy levels in the atom, $$h=6.626\times10^{-34}\:\text{J}\cdots\text{s}$$, $$e=1.602\times10^{-19}\:\text{C}, $$m_e=9.11\times10^{-31}\:\text{kg}, and $$k=(4\pi\epsilon_0)^{-1}. For the case of H ($$Z=1$$), *i.e*, the system Bohr used to formulate his model, **Eq. 1** can be re-written to quantitatively predict the electron transition wavelengths, $$\lambda$$:
+where $$n_i$$ and $$n_f$$ are integers that specify the initial-state and final-state electron energy levels in the atom, $$h=6.626\times10^{-34}\:\text{J}\cdots\text{s}$$, $$e=1.602\times10^{-19}\:\text{C}$$, $$m_e=9.11\times10^{-31}\:\text{kg}$$, and $$k=(4\pi\epsilon_0)^{-1}$$. For the case of H ($$Z=1$$), *i.e*, the system Bohr used to formulate his model, **Eq. 1** can be re-written to quantitatively predict the electron transition wavelengths, $$\lambda$$:
 $$
 \frac{1}{\lambda}=R_H\cdot\left|\frac{1}{n_f^2}-\frac{1}{n_i^2}\right|
 $$
@@ -56,11 +56,11 @@ Use the color information you recorded to compare your data for Hg and He (only)
 | 447.1 							|  blue-violet |
 | 471.3								|  blue   |
 | 492.1								|  blue-green  |
-| 501.5  							|  green  |  
-| 504.7								|  green  |  
-| 587.5 							|  yellow  |  
-| 667.8 							|  red  |  
-| 706.5 							|  red  |  
+| 501.5  							|  green  |
+| 504.7								|  green  |
+| 587.5 							|  yellow  |
+| 667.8 							|  red  |
+| 706.5 							|  red  |
 
 > ######Warning: Be careful when you match your data (colors) to known transitions. You may not have seen all of the lines listed in the tables above.
 
