@@ -117,4 +117,7 @@
       * [mt2016a](mt/mt2016/mt2016a.md)
       * [mt2016b](mt/mt2016/mt2016b.md)
       * [mt2016c](mt/mt2016/mt2016c.md)
-
+* [lab](lab/lab.md)
+  * [lab03](lab/lab03.md)
+  * [lab04](lab/lab04.md)
+  * [lab05](lab/lab05.md)
