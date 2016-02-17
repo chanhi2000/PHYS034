@@ -131,3 +131,4 @@
   * [lab03](lab/lab03.md)
   * [lab04](lab/lab04.md)
   * [lab05](lab/lab05.md)
+  * [lab06](lab/lab06.md)
