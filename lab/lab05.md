@@ -16,12 +16,14 @@ Today you will directly measure the electromagnetic radiation emitted by a hot o
 - $$k_B$$:  Boltzmann's constant;
 - $$h$$:  Planck’s constant
 - $$c$$:  the speed of light in vacuum.
+
 As derived in most modern physics and thermodynamics textbooks, the Stefan-Boltzmann Law:
 
 $$
 P_{BB}=\epsilon\sigma{A}(T^4-T_0^4)
 $$
 gives the total power $$P_{BB}\:\left[\tfrac{\text{J}}{\text{s}}\right]$$ radiated by a blackbody with surface area $$A$$, temperature $$T$$, and emissivity $$\epsilon$$ (an ideal blackbody has $$\epsilon=1$$) in a finite-temperature environment ($$T_0$$). The Stefan-Boltzmann constant, $$\sigma$$, is:
+
 $$
 \sigma=\left(\frac{2\pi^5k^5}{15h^3c^2}\right)=5.67\times10^{-8}\:\tfrac{\text{W}}{\text{m}^2}\tfrac{1}{\text{K}^4}
 $$
@@ -38,7 +40,7 @@ You can find derivations of Wein’s Law and all the other important equations u
 Stefan Boltzmann’s Equation, etc.) in most modern physics and thermodynamics textbooks.
 
 ![fig01](lab05/[PHYS034]lab05-fig01.png)
-######**Figure 1.** Spectral energy density of electromagnetic energy emitted by a blackbody at different temperatures, expressed in terms of either radiation frequency $$$$ or wavelength $$\lambda$$.
+######**Figure 1.** Spectral energy density of electromagnetic energy emitted by a blackbody at different temperatures, expressed in terms of either radiation frequency $$\nu$$ or wavelength $$\lambda$$.
 
 
 ## LAB EXPERIMENT GOALS:
@@ -51,6 +53,7 @@ R=(-10.98\:\Omega)+(1.50\times10^{-2}\:\tfrac{\Omega}{\text{K}})\cdot{T}
 $$
 or
 $$
+R=(-10.98\:\Omega)+(1.50\times10^{-2}\:\tfrac{\Omega}{\text{K}})\cdot{T}
 $$
 
 ![fig02](lab05/[PHYS034]lab05-fig02.png)
