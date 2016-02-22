@@ -3,7 +3,7 @@
 ##TITLE:
 MEASUREMENT OF BLACKBODY RADIATION - Short Version
 
-## Equipment:
+## EQUIPMENTS:
 - Calibrated quartz-halogen lamp with tungsten filament
 - Fabry-Perot filters
 - photodiode detector
