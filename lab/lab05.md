@@ -12,7 +12,7 @@ MEASUREMENT OF BLACKBODY RADIATION - Short Version
 - black cloth.
 
 ## INTRODUCTION AND BACKGROUND:
-Today you will directly measure the electromagnetic radiation emitted by a hot object at known temperatures. You’ll use Planck’s Law and its related equations to experimentally determine the value of $$\frac{hc}{k_B}/, where
+Today you will directly measure the electromagnetic radiation emitted by a hot object at known temperatures. You’ll use Planck’s Law and its related equations to experimentally determine the value of $$\frac{hc}{k_B}$$, where
 - $$k_B$$:  Boltzmann's constant;
 - $$h$$:  Planck’s constant
 - $$c$$:  the speed of light in vacuum.
