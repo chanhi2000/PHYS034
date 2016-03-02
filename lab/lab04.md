@@ -16,12 +16,12 @@ Three years later Davisson and Germer and also J. J. Thomson's son provided expe
 
 The electron diffraction tubes (manufactured by TelAtomic) we have in lab produce a narrow beam of electrons from an indirectly heated, oxide-coated cathode.  The inside (coated) surface at the end of the diffraction tube serves as a (white) luminescent screen.  A micro-mesh nickel grid, onto which graphite has been deposited, lies across the exit aperture of the electron “gun” (see **figure 1**).  As the electron beam penetrates the graphite, the electron beam gets diffracted onto the luminescent screen, forming rings (**Figure 2.**) You will measure the diameters of the observed rings for different tube operating conditions, and use the results to determine the inter-atomic spacing of the carbon atoms in the graphite target.
 
-![fig01](lab04/[PHYS034]lab04-fig01.png)
-######**Figure 1.** Electron diffraction tube (schematic view).
+![fig01](lab04/lab04-fig01.png)
+> ######**Figure.01** Electron diffraction tube (schematic view).
 
 
-![fig02](lab04/[PHYS034]lab04-fig02.png)
-######Figure 2. Diffraction rings produced by electron “waves” scattered by carbon target.
+![fig02](lab04/lab04-fig02.png)
+> ######**Figure.02** Diffraction rings produced by electron “waves” scattered by carbon target.
 
 
 ##1.
@@ -49,7 +49,7 @@ From the slope of your graph, determine the inter-atomic spacing of carbon atoms
 Discuss your results and conclude!
 
 #### HELPFUL INFORMATION
-![fig03](lab04/[PHYS034]lab04-fig03.png)
+![fig03](lab04/lab04-fig03.png)
 
 - Bragg's condition:
 $$

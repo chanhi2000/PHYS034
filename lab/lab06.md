@@ -4,7 +4,7 @@
 The Photoelectric Effect.
 
 ## EQUIPMENTS:
-- Photoelectric Effect with amplifier unit (Model EP-05, Daedalon1 Corporation)
+- Photoelectric Effect with amplifier unit (Model EP-05, Daedalon[^1] Corporation)
 - Mercury light source (Model ML-900, Electro Technic Products, Inc.)
 - Digital voltmeter (mV) and cables
 - Light diffuser disk and color filters; “white light” lamp (optional); black cloth
@@ -23,9 +23,9 @@ In preparing for this lab please review the discussion of the Photoelectric Effe
 
 
 ## INTRODUCTION AND BACKGROUND:
-The phenomenon of electron emission by monochromatic electromagnetic radiation impinging on a clean metal surface is called the photoelectric effect. The first person to perform careful studies of the emission of negative particles (electrons) from clean metal surfaces exposed to light was Philip Lenard. In 1902, Lenard showed2 that the emitted particles have a charge to mass ratio, e/m, equal to that measured by Thompson for what were then called cathode rays, now known to be electrons. Careful studies of the photoelectric effect quickly established that the kinetic energy of the emitted electrons does not depend on the *intensity* of the incoming light but only on the *frequency* “$$f$$” of the light. It was also found that the number of emitted electrons was proportional to the light intensity.
+The phenomenon of electron emission by monochromatic electromagnetic radiation impinging on a clean metal surface is called the photoelectric effect. The first person to perform careful studies of the emission of negative particles (electrons) from clean metal surfaces exposed to light was Philip Lenard. In 1902, Lenard showed[^2] that the emitted particles have a charge to mass ratio, e/m, equal to that measured by Thompson for what were then called cathode rays, now known to be electrons. Careful studies of the photoelectric effect quickly established that the kinetic energy of the emitted electrons does not depend on the *intensity* of the incoming light but only on the *frequency* “$$f$$” of the light. It was also found that the number of emitted electrons was proportional to the light intensity.
 
-In 1905, Einstein proposed a radical concept of energy exchange to explain the photoelectric effect.  His model was formulated in terms of the quantum theory of electromagnetic radiation proposed earlier by Max Planck to explain blackbody radiation.  Einstein, working from the Planck assumption that light energy consists of discrete quanta of energy $$E=HF$$, postulated that these photons penetrate the surface of the metal and, when absorbed, transfer their entire energy to an electron in the metal. In Einstein’ s model, if the absorbed energy gives the electron sufficient energy to overcome the binding energy (the “work function”) of the host metal, the electron escapes from the surface with a kinetic energy equal to that of the original photon less the binding energy “$$e\phi$$” of the metal:
+In 1905, Einstein proposed[^3] a radical concept of energy exchange to explain the photoelectric effect.  His model was formulated in terms of the quantum theory of electromagnetic radiation proposed earlier by Max Planck to explain blackbody radiation.  Einstein, working from the Planck assumption that light energy consists of discrete quanta of energy $$E=HF$$, postulated that these photons penetrate the surface of the metal and, when absorbed, transfer their entire energy to an electron in the metal. In Einstein’ s model, if the absorbed energy gives the electron sufficient energy to overcome the binding energy (the “work function”) of the host metal, the electron escapes from the surface with a kinetic energy equal to that of the original photon less the binding energy “$$e\phi$$” of the metal:
 $$
 \frac{1}{2}mv^2=hf-e\phi
 $$
@@ -35,7 +35,7 @@ In this lab you will study the photoelectric effect and verify Eq. 1 that Einste
 ## PRINCIPLE OF OPERATION:
 A schematic diagram of the experimental set-up is shown below. The collector and emitter plates are housed in a common vacuum phototube. The tube and its associated electronics (including an analog nano-ammeter and a variable voltage supply) are all enclosed in a small grey box. The box has a hole where photons from an external Hg lamp (or other light source) can enter and strike the phototube. The voltage of the variable supply will be measured using a digital voltmeter connected to the box via banana cables.
 
-![fig01](lab06/[PHYS034]lab06-fig01.png)
+![fig01](lab06/lab06-fig01.png)
 
 
 To study the photoelectric effect, the collector plate in the vacuum tube is made negative with respect to the emitter plate. Thus, the collecting surface will repel electrons coming from the emitter plate and only those electrons with enough energy to overcome this force will arrive at the collector plate and register a current in the ammeter. When the applied potential difference is large enough to repel the highest kinetic energy electrons ejected by light at a given frequency (*i.e.*, the electrons ejected from the topmost layer of the metal), the detected current will reach zero. The minimum voltage where this occurs is identified as the cutoff voltage, $$V_0$$, where:
@@ -75,7 +75,7 @@ $$
 
 3. Your data should be consistent with a straight-line fit. (Again, why is this?) If appropriate, determine the best-fit straight line to your data (including error bars). Then determine your experimental result for “$$\tfrac{h}{e}$$” and “$$\phi$$” (the emitter plate work function). Your final results must include $$\pm\:\text{uncertainties}$$. There are different ways to get the error estimates.  I suggest you use a simple graphical technique that involves also drawing “max-slope” and “min-slope” fits to your data (error bars).
 
-4. Does your result for $$\tfrac{h}{e}$$ (± error) agree with the accepted value of $$4.136\times10^{-15}\:\frac{\text{J}\cdot\text{sec}}{\text{C}}$$?  Comment briefly on the difficulty of the measurements and describe the origin of your largest experimental uncertainties.  **NOTE**: “Human Error” is not an acceptable answer here! How do you think the experiment uncertainties could be improved? How could any systematic errors be reduced, or better understood?
+4. Does your result for $$\tfrac{h}{e}$$ (± error) agree with the accepted value of $$4.136\times10^{-15}\:\tfrac{\text{J}\cdot\text{sec}}{\text{C}}$$?  Comment briefly on the difficulty of the measurements and describe the origin of your largest experimental uncertainties.  **NOTE**: “Human Error” is not an acceptable answer here! How do you think the experiment uncertainties could be improved? How could any systematic errors be reduced, or better understood?
 
 **REMINDER**: You will be graded (in part) on the quality of your graphs so do them carefully!
 
@@ -91,5 +91,6 @@ $$
 | He-Ne laser | Red | $$6328\:\unicode{xC5}$$ | $$4.74\times10^{14}\:\text{Hz}$$ |
 | Green laser | Gren | $$5320\:\unicode{xC5}$$ | $$5.64\times10^{14}\:\text{Hz}$$ |
 
-
-
+[^1]: Daedalon Corporation; [http://www.daedalon.com](http://www.daedalon.com)
+[^2]: P. Lenard, *Ann. D. Phys.* **8** (1902).
+[^3]: A. Einstein, *Ann. D. Phys.* **17** (1905). In 1921, Einstein won a Nobel Prize for this work.

@@ -35,8 +35,8 @@ Use the Hg source to make the following necessary adjustments of the spectroscop
 The first data you need acquire today is calibration data for your particular spectroscope. You will use both Hg and He sources for this purpose. Observe the mercury (Hg) spectrum through your spectroscope. Record both the color (“yellow”, “green”, “blue”, *etc.*) and precise spectroscope-scale value (± uncertainty!) associated with **each and every colored line** you see in the Hg spectrum. Then repeat the same exercise two more times, using the He and H tubes provided. Be careful to note in your lab book (while you work) which gas tube corresponds to which data (set of colored lines). Do not knock the prism between data sets or your spectroscope
 calibration will change and you’ll have to start over!
 
-![fig01](lab03/[PHYS034]lab03-fig01.png)
-**Fig 1.** Schematic diagram of electron transitions in the H-atom.  Transitions that end on the $$n=1$$ level are in the Lyman Series (mostly UV). Transitions that end on $$n=2$$ belong to the Balmer Series (mostly visible).  Transitions that end on n=3 make up the Paschen Series (mostly IR)
+![fig01](lab03/lab03-fig01.png)
+> ######**Figure.01** Schematic diagram of electron transitions in the H-atom.  Transitions that end on the $$n=1$$ level are in the Lyman Series (mostly UV). Transitions that end on $$n=2$$ belong to the Balmer Series (mostly visible).  Transitions that end on n=3 make up the Paschen Series (mostly IR)
 
 ##ANALYSIS:
 Use the color information you recorded to compare your data for Hg and He (only) to the known electron energy-level transitions provided below.  Then **carefully and precisely** plot the known energy transition wavelength, $$\lambda$$, vs. scale number (your data) for every spectral line you observed with the Hg and He sources.  Plot your Hg and He data on the same graph.  Include error bars.  Combined, your plotted Hg and He data represents the calibration curve for your spectroscope.  Do this graph extremely carefully.  The quality of your final results today will depend critically on the quality of your Hg+He calibration graph!

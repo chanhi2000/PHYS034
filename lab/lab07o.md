@@ -24,14 +24,13 @@ How much damage any one radiation event can cause depends on the type of radiati
 2. Half-life ($$\tau_{1/2}$$): amount of time it takes for half of that sample to decay. Some radioisotopes have long half-lives and some have short half-lives: $$^{14}\text{C}$$ takes $$5,730\:\text{yr}$$ for any given quantity to decay to half of the original amount of radio activity. $$^{32}\text{P}$$ has a two week half-life. $$^{8}\text{Li}$$ decays by $$50\:\%$$ in $$<1\:\text{sec}$$.
 
 3. $$\text{Rad}$$ (**R**adiation **a**bsorbed **d**ose): $$100$$ ergs of energy deposition per gram of absorber.
-
 4. $$\text{Rem}$$ (**R**adiation **e**quivalent **man**): does equivalent that takes into account the biological effectiveness of different types of radiation.
 
-5. $$\text{Gray}=100\:\text{Rad}$$
+5. _$$\text{Gray}=100\:\text{Rad}$$
 
-6. $$\text{Sievert}=100\:\text{Rem}$$
+6. _$$\text{Sievert}=100\:\text{Rem}$$
 
-7. $$\text{Becquerel}=1\:\tfrac{\text{decays}}{\text{s}}$$
+7. _$$\text{Becquerel}=1\:\tfrac{\text{decays}}{\text{s}}$$
 
 
 

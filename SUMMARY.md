@@ -146,6 +146,8 @@
 		* [mt2016b](mt/mt2016/mt2016b.md)
 		* [mt2016c](mt/mt2016/mt2016c.md)
 * [lab](lab/lab.md)
+	* [lab01](lab/lab01.md)
+	* [lab02](lab/lab02.md)
 	* [lab03](lab/lab03.md)
 	* [lab04](lab/lab04.md)
 	* [lab05](lab/lab05.md)
@@ -153,3 +155,4 @@
 	* [lab07o](lab/lab07o.md)
 	* [lab07p](lab/lab07p.md)
 	* [lab07](lab/lab07.md)
+	* [lab08](lab/lab08.md)
