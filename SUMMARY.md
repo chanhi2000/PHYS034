@@ -156,3 +156,4 @@
 	* [lab07p](lab/lab07p.md)
 	* [lab07](lab/lab07.md)
 	* [lab08](lab/lab08.md)
+	* [lab09](lab/lab09.md)
